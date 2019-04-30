@@ -1,5 +1,5 @@
 # load-forecasting
-two main studies are conducted to compare the predictive capabilities
+Two main studies are conducted to compare the predictive capabilities
 of Artificial Neural Networks (ANN) and Long Short-Term Memory Networks (LSTM) in
 electricity load forecasting. We propose a long short-term memory (LSTM) recurrent neural
 network-based framework, which is the latest and one of the most popular techniques of deep
